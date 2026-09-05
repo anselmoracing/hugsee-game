@@ -1,0 +1,12 @@
+{
+  "name": "hugsees hide and seek prototype 3",
+  "short_name": "hugsees hide and seek prototype 3",
+  "id": "com.example.gamename",
+  "description": "experimental game for hugacademy",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
