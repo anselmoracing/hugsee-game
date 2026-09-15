@@ -1,2 +1,3 @@
 /*
   Cache-Control: no-cache
+  Content-Security-Policy: frame-ancestors 'self' https://*.wix.com https://*.usrfiles.com https://axelpua2.wixstudio.com;
